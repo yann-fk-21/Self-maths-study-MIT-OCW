@@ -23,7 +23,7 @@ Repository containing notes, exercises and resources for MIT mathematics courses
 | Week | Topic | Status |
 |------|-------|--------|
 | 1 | Vectors, Determinants, Planes, Matrices and Systems of Equations | Not started |
-| 2 | Partial Derivatives, Tangent Approximation, Optimization, and Lagrange Multipliers | Not started |
+| 2 | Partial Derivatives, Tangent Approximation, Optimization, and Lagrange Multipliers | *In progress* |
 | 3 | Double Integrals, Vector Fields, Line Integrals, and Green's Theorem | Not started |
 | 4 | Triple Integrals, Surface Integrals, Flux, Divergence Theorem, and Stokes' Theorem | Not started |
 
