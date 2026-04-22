@@ -6,8 +6,8 @@ Repository containing notes, exercises and resources for MIT mathematics courses
 
 | Week | Topic | Status |
 |------|-------|--------|
-| 1 | Solving Ax = b for square systems by elimination (pivots, multipliers, back substitution, invertibility of A, factorization into A = LU) | *In progress* |
-| 2 | Complete solution to Ax = b (column space containing b, rank of A, nullspace of A and special solutions to Ax = 0 from row reduced R) | Not started |
+| 1 | Solving Ax = b for square systems by elimination (pivots, multipliers, back substitution, invertibility of A, factorization into A = LU) | *Finished* |
+| 2 | Complete solution to Ax = b (column space containing b, rank of A, nullspace of A and special solutions to Ax = 0 from row reduced R) | *In progress* |
 | 3 | Basis and dimension (bases for the four fundamental subspaces) | Not started |
 | 4 | Least squares solutions (closest line by understanding projections) | Not started |
 | 5 | Orthogonalization by Gram-Schmidt (factorization into A = QR) | Not started |
