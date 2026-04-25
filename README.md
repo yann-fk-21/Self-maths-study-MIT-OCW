@@ -43,8 +43,8 @@ Repository containing notes, exercises and resources for MIT mathematics courses
 
 | Week | Topic | Status |
 |------|-------|--------|
-| 1 | Mathematical Fundamentals: Convex sets, cones, and operations preserving convexity | *In progress* |
-| 2 | Convex Functions: Properties, quasiconvex, and log-convex functions | Not started |
+| 1 | Mathematical Fundamentals: Convex sets, cones, and operations preserving convexity | *Finished* |
+| 2 | Convex Functions: Properties, quasiconvex, and log-convex functions | *In progress* |
 | 3 | Optimization Problems: Formulating linear, quadratic, and semidefinite programs | Not started |
 | 4 | Theoretical Framework: Optimality conditions and duality theory | Not started |
 | 5 | Numerical Algorithms: Gradient descent, Newton's method, and barrier methods | Not started |
